@@ -1,0 +1,28 @@
+* {
+    font-family: 'Poppins', sans-serif;
+    /*height: 100%;*/
+}
+
+body {
+    background-image: linear-gradient(to left, #0FC2C0, #008F8C);
+}
+main {
+    background-color: #fff;
+    width: 600px;
+    padding: 10px;
+    margin: auto;
+    border-radius: 5%;
+    box-shadow: 5px 5px 5px 1px rgba(1, 113, 111, 0.784);
+}
+h1 {
+    color: #023535;
+    text-align: center;
+    text-shadow: 1px 1px 1px rgba(0, 143, 141, 0.461);
+}  
+h2 {
+    color: #008F8C;
+    text-shadow: 1px 1px 1px black;
+} 
+p {
+    text-align: justify;
+}

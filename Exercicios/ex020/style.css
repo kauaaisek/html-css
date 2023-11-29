@@ -1,0 +1,32 @@
+div {
+    background-color: rgb(170, 185, 185);
+    text-align: center;
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+    display: inline-block;
+}
+
+#frase1 {
+    background-color: aquamarine;
+}
+#frase1:hover {
+    background-color: rgb(61, 123, 103);
+    transition-duration: 1s;
+}
+
+#frase2 {
+    background-color: #5cb99a;
+}
+#frase2:hover {
+    background-color: #2a5647;
+    transition-duration: 1s;
+}
+
+#frase3 {
+    background-color: aqua;    
+}
+#frase3:hover {
+    background-color: rgb(52, 138, 147);
+    transition-duration: 1s;
+}

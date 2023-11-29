@@ -1,0 +1,28 @@
+/*
+# = ID (só pode ter um)
+. = CLASS (pode ter mais que um)
+*/
+
+body {
+    background-color: #88f988;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#principal {
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+}
+
+h1 {
+    color: #183618;
+}
+
+h2 {
+    color: #224b22;
+}
+.principais {
+    color: rgb(120, 81, 31);
+}
+.principais2 {
+    color: rgb(179, 112, 40);
+}
